@@ -1,6 +1,6 @@
-# Mi-primer-proyecto-de-Data-Analytics
-Este repositorio contiene el código y los datos utilizados en mi primer proyecto de análisis de datos con Python realizado en el Bootcamp de Hackspace 2021.
-# Otra informacion
+#  Mi primer proyecto de Data Analytics
+Este repositorio contiene el código y los datos utilizados en mi primer proyecto de análisis de datos con Python realizado en el Bootcamp de Hackspace 2021
+# Otra info
 El estado de este repositorio esta aun en progreso... Tenemos las siguientes tareas pendientes:
 
 Crear un repositorio local usando git ✅
